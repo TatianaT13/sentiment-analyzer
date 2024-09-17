@@ -1,0 +1,33 @@
+# Environnements virtuels
+env/
+venv/
+ENV/
+*.venv
+*.virtualenv
+
+#dataset
+data/
+
+# Fichiers spécifiques à l'OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de log et temporaires
+*.log
+*.tmp
+
+# Dossiers et fichiers générés par Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de modèle et de vectorizer
+model/
+
+# Configurations spécifiques à l'éditeur
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Fichiers de dépendances
+*.egg-info/
