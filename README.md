@@ -18,7 +18,7 @@ python -m venv env source env/bin/activate # Sur Windows : env\Scripts\activate
 
 3. **Installer les dépendances :**
 
-pip install -r exigences.txt
+pip install -r requirements.txt
 
 4. **Télécharger le dataset :**
 
